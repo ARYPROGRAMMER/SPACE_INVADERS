@@ -1,0 +1,6 @@
+pyttsx3 
+pygame 
+pycaw 
+comtypes  
+turtle
+datetime
